@@ -20,7 +20,7 @@
   <img alt="To-do list" src="./src/images/frontend.png" width="100%">
 </p>
 
-[Acessar o projeto](https://wsawebmaster.github.io/js-piano/)
+[Acessar o projeto](https://wsawebmaster.github.io/js-piano-virtual/)
 
 <br />
 
